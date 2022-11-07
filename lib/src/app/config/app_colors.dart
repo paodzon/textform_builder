@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:textform_builder/src/app/extension/color.dart';
+import 'package:textinput_builder/src/app/extension/color.dart';
 
 class AppColors {
   static Color primary = HexColor("#F7921E");

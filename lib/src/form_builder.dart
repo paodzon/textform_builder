@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:textform_builder/src/models/field_model.dart';
-import 'package:textform_builder/src/widgets/labeled_textfield.dart';
+import 'package:textinput_builder/src/models/field_model.dart';
+import 'package:textinput_builder/src/widgets/labeled_textfield.dart';
 
 class FormBuilder extends StatefulWidget {
   const FormBuilder({Key? key, required this.data, required this.onSubmit})

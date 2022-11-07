@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:textform_builder/textform_builder.dart';
+import 'package:textform_builder/textinput_builder.dart';
 import 'package:example/data.dart';
 
 void main() {

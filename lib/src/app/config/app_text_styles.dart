@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:textform_builder/src/app/config/app_colors.dart';
-import 'package:textform_builder/src/app/config/app_constants.dart';
+import 'package:textinput_builder/src/app/config/app_colors.dart';
+import 'package:textinput_builder/src/app/config/app_constants.dart';
 
 /// AppTextStyle format as follows:
 /// [fontWeight][fontSize][colorName][opacity]

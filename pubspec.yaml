@@ -1,7 +1,7 @@
-name: textform_builder
-description: A new Flutter package project.
+name: textinput_builder
+description: A simple text form builder.
 version: 0.0.1
-homepage:
+repository: https://github.com/paodzon/textform_builder
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
