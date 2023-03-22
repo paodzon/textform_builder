@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:textform_builder/textinput_builder.dart';
-import 'package:example/data.dart';
 
 void main() {
   runApp(const MyApp());
@@ -42,10 +40,6 @@ class MyHomePage extends StatelessWidget {
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),
             ),
             const SizedBox(height: 20),
-            FormBuilder(
-              data: sampleJson,
-              onSubmit: (val) => onSubmit(val),
-            )
           ],
         ),
       ),
